@@ -3,22 +3,22 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About Axiom</source>
-        <translation>O Axiomu</translation>
+        <source>About Axon</source>
+        <translation>O Axonu</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;Axiom&lt;/b&gt; version</source>
-        <translation>Verze &lt;b&gt;Axiomu&lt;/b&gt; </translation>
+        <source>&lt;b&gt;Axon&lt;/b&gt; version</source>
+        <translation>Verze &lt;b&gt;Axonu&lt;/b&gt; </translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The Axiom developers</source>
+Copyright © 2014 The Axon developers</source>
         <translation>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The Axiom developers</translation>
+Copyright © 2014 The Axon developers</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -60,8 +60,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-43"/>
-        <source>These are your Axiom addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Tato jsou tvé Axiom adresy pro příjem plateb. Každému odesílateli můžeš dát jinou adresu, aby jsi mohl sledovat, kdo ti platí.</translation>
+        <source>These are your Axon addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Tato jsou tvé Axon adresy pro příjem plateb. Každému odesílateli můžeš dát jinou adresu, aby jsi mohl sledovat, kdo ti platí.</translation>
     </message>
     <message>
         <location line="+53"/>
@@ -75,8 +75,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+7"/>
-        <source>Sign a message to prove you own a Axiom address</source>
-        <translation>Podepiš zprávu, aby jsi dokázal, že vlastníš tuto Axiom adresu.</translation>
+        <source>Sign a message to prove you own a Axon address</source>
+        <translation>Podepiš zprávu, aby jsi dokázal, že vlastníš tuto Axon adresu.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -90,8 +90,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-10"/>
-        <source>Verify a message to ensure it was signed with a specified Axiom address</source>
-        <translation>Ověř zprávu, aby jsi zajistil, že byla podepsaná určitou Axiom adresou.</translation>
+        <source>Verify a message to ensure it was signed with a specified Axon address</source>
+        <translation>Ověř zprávu, aby jsi zajistil, že byla podepsaná určitou Axon adresou.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -258,8 +258,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+82"/>
-        <source>Axiom will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>Pro dokončení procesu šifrování se Axiom nyní zavře, Pamatuj, že zašifrování tvé peněženky nemůže plně ochránit tvé mince před krádeží, pokud máš počítač infikován malwerem.</translation>
+        <source>Axon will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>Pro dokončení procesu šifrování se Axon nyní zavře, Pamatuj, že zašifrování tvé peněženky nemůže plně ochránit tvé mince před krádeží, pokud máš počítač infikován malwerem.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -352,8 +352,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about Axiom</source>
-        <translation>Zobraz informace a Axiomu</translation>
+        <source>Show information about Axon</source>
+        <translation>Zobraz informace a Axonu</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -392,13 +392,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-55"/>
-        <source>Send coins to a Axiom address</source>
-        <translation>Odešli mince na Axiom adresu</translation>
+        <source>Send coins to a Axon address</source>
+        <translation>Odešli mince na Axon adresu</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>Modify configuration options for Axiom</source>
-        <translation>Uprav možnosti konfigurace pro Axiom</translation>
+        <source>Modify configuration options for Axon</source>
+        <translation>Uprav možnosti konfigurace pro Axon</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -438,8 +438,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="-214"/>
         <location line="+555"/>
-        <source>Axiom</source>
-        <translation>Axiom</translation>
+        <source>Axon</source>
+        <translation>Axon</translation>
     </message>
     <message>
         <location line="-555"/>
@@ -448,8 +448,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+193"/>
-        <source>&amp;About Axiom</source>
-        <translation>&amp;O Axiomu</translation>
+        <source>&amp;About Axon</source>
+        <translation>&amp;O Axonu</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -500,13 +500,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+0"/>
         <location line="+58"/>
-        <source>Axiom client</source>
-        <translation>Axiom klient</translation>
+        <source>Axon client</source>
+        <translation>Axon klient</translation>
     </message>
     <message numerus="yes">
         <location line="+70"/>
-        <source>%n active connection(s) to Axiom network</source>
-        <translation><numerusform>%n aktivní spojení do Axiom sítě</numerusform><numerusform>%n aktivních spojení do Axiom sítě</numerusform><numerusform>%n aktivních spojení do Axiom sítě</numerusform></translation>
+        <source>%n active connection(s) to Axon network</source>
+        <translation><numerusform>%n aktivní spojení do Axon sítě</numerusform><numerusform>%n aktivních spojení do Axon sítě</numerusform><numerusform>%n aktivních spojení do Axon sítě</numerusform></translation>
     </message>
     <message>
         <location line="+488"/>
@@ -600,8 +600,8 @@ Adresa: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid Axiom address or malformed URI parameters.</source>
-        <translation>URI nejde rozparsovat! To může být způsobeno neplatnou Axiom adresou nebo chybnými URI parametry.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid Axon address or malformed URI parameters.</source>
+        <translation>URI nejde rozparsovat! To může být způsobeno neplatnou Axon adresou nebo chybnými URI parametry.</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -723,8 +723,8 @@ Adresa: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+104"/>
-        <source>A fatal error occurred. Axiom can no longer continue safely and will quit.</source>
-        <translation>Došlo k závažné chybě. Axiom již nemůže dále bezpečně pokračovat a bude ukončen.</translation>
+        <source>A fatal error occurred. Axon can no longer continue safely and will quit.</source>
+        <translation>Došlo k závažné chybě. Axon již nemůže dále bezpečně pokračovat a bude ukončen.</translation>
     </message>
 </context>
 <context>
@@ -1057,8 +1057,8 @@ To znamená, že je potřebný poplatek ve výši nejméně %2.</translation>
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid Axiom address.</source>
-        <translation>Zadaná adresa &quot;%1&quot; není platná Axiom adresa.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid Axon address.</source>
+        <translation>Zadaná adresa &quot;%1&quot; není platná Axon adresa.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1076,8 +1076,8 @@ To znamená, že je potřebný poplatek ve výši nejméně %2.</translation>
     <message>
         <location filename="../guiutil.cpp" line="+426"/>
         <location line="+12"/>
-        <source>Axiom-Qt</source>
-        <translation>Axiom-Qt</translation>
+        <source>Axon-Qt</source>
+        <translation>Axon-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1149,13 +1149,13 @@ To znamená, že je potřebný poplatek ve výši nejméně %2.</translation>
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start Axiom after logging in to the system.</source>
-        <translation>Automaticky spustit Axiom po přihlášení do systému.</translation>
+        <source>Automatically start Axon after logging in to the system.</source>
+        <translation>Automaticky spustit Axon po přihlášení do systému.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start Axiom on system login</source>
-        <translation>&amp;Spustit Axiom při přihlášení do systému</translation>
+        <source>&amp;Start Axon on system login</source>
+        <translation>&amp;Spustit Axon při přihlášení do systému</translation>
     </message>
     <message>
         <location line="+21"/>
@@ -1164,8 +1164,8 @@ To znamená, že je potřebný poplatek ve výši nejméně %2.</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the Axiom client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Automaticky otevřít port Axiom klienta na routeru. Funguje to jen tehdy, když router podporuje UPnP a je povoleno.</translation>
+        <source>Automatically open the Axon client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Automaticky otevřít port Axon klienta na routeru. Funguje to jen tehdy, když router podporuje UPnP a je povoleno.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1194,7 +1194,7 @@ To znamená, že je potřebný poplatek ve výši nejméně %2.</translation>
     </message>
     <message>
         <location line="-57"/>
-        <source>Connect to the Axiom network through a SOCKS5 proxy (e.g. when connecting through Tor).</source>
+        <source>Connect to the Axon network through a SOCKS5 proxy (e.g. when connecting through Tor).</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1239,8 +1239,8 @@ To znamená, že je potřebný poplatek ve výši nejméně %2.</translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting Axiom.</source>
-        <translation>Zde můžeš nastavit jazyk uživatelského rozhraní. Nastavení se projeví až po restartu Axiomu.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting Axon.</source>
+        <translation>Zde můžeš nastavit jazyk uživatelského rozhraní. Nastavení se projeví až po restartu Axonu.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1306,8 +1306,8 @@ To znamená, že je potřebný poplatek ve výši nejméně %2.</translation>
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting Axiom.</source>
-        <translation>Nastavení se projeví až po restartu Axiomu.</translation>
+        <source>This setting will take effect after restarting Axon.</source>
+        <translation>Nastavení se projeví až po restartu Axonu.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1325,8 +1325,8 @@ To znamená, že je potřebný poplatek ve výši nejméně %2.</translation>
     <message>
         <location line="+46"/>
         <location line="+247"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Axiom network after a connection is established, but this process has not completed yet.</source>
-        <translation>Zobrazené informace můžou být zastaralé. Tvá peněženka se automaticky synchronizuje s Axiom sítí po navázaní spojení, ale tento proces ještě není dokončený.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Axon network after a connection is established, but this process has not completed yet.</source>
+        <translation>Zobrazené informace můžou být zastaralé. Tvá peněženka se automaticky synchronizuje s Axon sítí po navázaní spojení, ale tento proces ještě není dokončený.</translation>
     </message>
     <message>
         <location line="-173"/>
@@ -1399,7 +1399,7 @@ To znamená, že je potřebný poplatek ve výši nejméně %2.</translation>
     <name>PaymentServer</name>
     <message>
         <location filename="../paymentserver.cpp" line="+107"/>
-        <source>Cannot start axiom: click-to-pay handler</source>
+        <source>Cannot start axon: click-to-pay handler</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -1567,8 +1567,8 @@ To znamená, že je potřebný poplatek ve výši nejméně %2.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the Axiom-Qt help message to get a list with possible Axiom command-line options.</source>
-        <translation>Zobrazit Axiom-Qt nápovědu pro zobrazení seznam dostupným možností příkazového řádku.</translation>
+        <source>Show the Axon-Qt help message to get a list with possible Axon command-line options.</source>
+        <translation>Zobrazit Axon-Qt nápovědu pro zobrazení seznam dostupným možností příkazového řádku.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1587,13 +1587,13 @@ To znamená, že je potřebný poplatek ve výši nejméně %2.</translation>
     </message>
     <message>
         <location line="-104"/>
-        <source>Axiom - Debug window</source>
-        <translation>Axiom - Ladící okno</translation>
+        <source>Axon - Debug window</source>
+        <translation>Axon - Ladící okno</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>Axiom Core</source>
-        <translation>Jádro Axiomu</translation>
+        <source>Axon Core</source>
+        <translation>Jádro Axonu</translation>
     </message>
     <message>
         <location line="+256"/>
@@ -1602,8 +1602,8 @@ To znamená, že je potřebný poplatek ve výši nejméně %2.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the Axiom debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Otevři logovací soubor Axiomu z aktuálního datového adresáře. Pro velké logy to může trvat několik sekund.</translation>
+        <source>Open the Axon debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Otevři logovací soubor Axonu z aktuálního datového adresáře. Pro velké logy to může trvat několik sekund.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1612,8 +1612,8 @@ To znamená, že je potřebný poplatek ve výši nejméně %2.</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="+325"/>
-        <source>Welcome to the Axiom RPC console.</source>
-        <translation>Vítej v Axiom RPC konzoli.</translation>
+        <source>Welcome to the Axon RPC console.</source>
+        <translation>Vítej v Axon RPC konzoli.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1793,8 +1793,8 @@ To znamená, že je potřebný poplatek ve výši nejméně %2.</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-174"/>
-        <source>Enter a Axiom address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Napiš Axiom adresu (např. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a Axon address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Napiš Axon adresu (např. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1893,8 +1893,8 @@ To znamená, že je potřebný poplatek ve výši nejméně %2.</translation>
     </message>
     <message>
         <location line="+247"/>
-        <source>WARNING: Invalid Axiom address</source>
-        <translation>UPOZORNĚNÍ: Neplatná Axiom adresa</translation>
+        <source>WARNING: Invalid Axon address</source>
+        <translation>UPOZORNĚNÍ: Neplatná Axon adresa</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1967,8 +1967,8 @@ To znamená, že je potřebný poplatek ve výši nejméně %2.</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a Axiom address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Zadej Axiom adresu (např. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a Axon address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Zadej Axon adresu (např. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
 </context>
 <context>
@@ -2028,8 +2028,8 @@ To znamená, že je potřebný poplatek ve výši nejméně %2.</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this Axiom address</source>
-        <translation>Podepiš zprávu jako důkaz, že vlastníš tuto Axiom adresu</translation>
+        <source>Sign the message to prove you own this Axon address</source>
+        <translation>Podepiš zprávu jako důkaz, že vlastníš tuto Axon adresu</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2060,8 +2060,8 @@ To znamená, že je potřebný poplatek ve výši nejméně %2.</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified Axiom address</source>
-        <translation>Ověř zprávu, aby ses ujistil, že byla podepsána danou Axiom adresou</translation>
+        <source>Verify the message to ensure it was signed with the specified Axon address</source>
+        <translation>Ověř zprávu, aby ses ujistil, že byla podepsána danou Axon adresou</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2071,8 +2071,8 @@ To znamená, že je potřebný poplatek ve výši nejméně %2.</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a Axiom address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Zadej Axiom adresu (např. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a Axon address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Zadej Axon adresu (např. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2081,8 +2081,8 @@ To znamená, že je potřebný poplatek ve výši nejméně %2.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter Axiom signature</source>
-        <translation>Zadej Axiom podpis</translation>
+        <source>Enter Axon signature</source>
+        <translation>Zadej Axon podpis</translation>
     </message>
     <message>
         <location line="+85"/>
@@ -2660,8 +2660,8 @@ To znamená, že je potřebný poplatek ve výši nejméně %2.</translation>
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+173"/>
-        <source>Axiom version</source>
-        <translation>Verze Axiomu</translation>
+        <source>Axon version</source>
+        <translation>Verze Axonu</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2670,8 +2670,8 @@ To znamená, že je potřebný poplatek ve výši nejméně %2.</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or axiomd</source>
-        <translation>Pošli příkaz na -server nebo axiomd</translation>
+        <source>Send command to -server or axond</source>
+        <translation>Pošli příkaz na -server nebo axond</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2690,13 +2690,13 @@ To znamená, že je potřebný poplatek ve výši nejméně %2.</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: axiom.conf)</source>
-        <translation>Urči konfigurační soubor (výchozí: axiom.conf)</translation>
+        <source>Specify configuration file (default: axon.conf)</source>
+        <translation>Urči konfigurační soubor (výchozí: axon.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: axiomd.pid)</source>
-        <translation>Urči pid soubor (výchozí: axiomd.pid)</translation>
+        <source>Specify pid file (default: axond.pid)</source>
+        <translation>Urči pid soubor (výchozí: axond.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2713,13 +2713,13 @@ To znamená, že je potřebný poplatek ve výši nejméně %2.</translation>
         <source>%s, you must set a rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=axiomrpc
+rpcuser=axonrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Axiom Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;Axon Alert&quot; admin@foo.com
 </source>
         <translation type="unfinished"/>
     </message>
@@ -2825,8 +2825,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Axiom Alert&quot; admin@foo.co
     </message>
     <message>
         <location line="-104"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Axiom will not work properly.</source>
-        <translation>Upozornění: Zkontroluj prosím datum a čas tvého počítače! Pokud jdou tvé hodiny špatně, tak Axiom nebude pracovat správně. </translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Axon will not work properly.</source>
+        <translation>Upozornění: Zkontroluj prosím datum a čas tvého počítače! Pokud jdou tvé hodiny špatně, tak Axon nebude pracovat správně. </translation>
     </message>
     <message>
         <location line="+132"/>
@@ -3132,7 +3132,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Axiom Alert&quot; admin@foo.co
     </message>
     <message>
         <location line="+8"/>
-        <source>Initialization sanity check failed. Axiom is shutting down.</source>
+        <source>Initialization sanity check failed. Axon is shutting down.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3192,13 +3192,13 @@ for example: alertnotify=echo %%s | mail -s &quot;Axiom Alert&quot; admin@foo.co
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Axiom</source>
-        <translation>Chyba načítání wallet.dat: Peněženka vyžaduje novější verzi Axiomu</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Axon</source>
+        <translation>Chyba načítání wallet.dat: Peněženka vyžaduje novější verzi Axonu</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart Axiom to complete</source>
-        <translation>Peněženka by potřebovala být přepsána: restartuj Axiom pro dokončení</translation>
+        <source>Wallet needed to be rewritten: restart Axon to complete</source>
+        <translation>Peněženka by potřebovala být přepsána: restartuj Axon pro dokončení</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3257,8 +3257,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Axiom Alert&quot; admin@foo.co
     </message>
     <message>
         <location line="+126"/>
-        <source>Unable to bind to %s on this computer. Axiom is probably already running.</source>
-        <translation>Nemůžu se svázat s %s na tomto počítači. Axiom nejspíše již běží.</translation>
+        <source>Unable to bind to %s on this computer. Axon is probably already running.</source>
+        <translation>Nemůžu se svázat s %s na tomto počítači. Axon nejspíše již běží.</translation>
     </message>
     <message>
         <location line="-102"/>
@@ -3297,7 +3297,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Axiom Alert&quot; admin@foo.co
     </message>
     <message>
         <location line="+3"/>
-        <source>Cannot obtain a lock on data directory %s. Axiom is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s. Axon is probably already running.</source>
         <translation type="unfinished"/>
     </message>
     <message>

@@ -653,7 +653,7 @@ public:
 
     uint256 GetPoWHash() const
     {
-	return AxiomHash(BEGIN(nVersion), END(nNonce));
+	return AxonHash(BEGIN(nVersion), END(nNonce));
     }
 
     int64_t GetBlockTime() const

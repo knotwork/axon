@@ -3,22 +3,22 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About Axiom</source>
-        <translation>Axiom Hakkında</translation>
+        <source>About Axon</source>
+        <translation>Axon Hakkında</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;Axiom&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;Axiom&lt;/b&gt; versiyonu</translation>
+        <source>&lt;b&gt;Axon&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;Axon&lt;/b&gt; versiyonu</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The Axiom developers</source>
+Copyright © 2014 The Axon developers</source>
         <translation>Telif Hakkı © 2009-2014 Bitcoin geliştiricileri
 Telif Hakkı © 2012-2014 NovaCoin geliştiricileri
-Telif Hakkı © 2014 Axiom geliştiricileri</translation>
+Telif Hakkı © 2014 Axon geliştiricileri</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -65,8 +65,8 @@ Bu ürün, OpenSSL projesi tarafından OpenSSL araç takımıThis product includ
     </message>
     <message>
         <location line="-43"/>
-        <source>These are your Axiom addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Bunlar, ödeme almak için Axiom adreslerinizdir. Her bir göndericiye farklı birini verebilir, böylece size kimin ödeme yaptığını takip edebilirsiniz.</translation>
+        <source>These are your Axon addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Bunlar, ödeme almak için Axon adreslerinizdir. Her bir göndericiye farklı birini verebilir, böylece size kimin ödeme yaptığını takip edebilirsiniz.</translation>
     </message>
     <message>
         <location line="+53"/>
@@ -80,8 +80,8 @@ Bu ürün, OpenSSL projesi tarafından OpenSSL araç takımıThis product includ
     </message>
     <message>
         <location line="+7"/>
-        <source>Sign a message to prove you own a Axiom address</source>
-        <translation>Bir Axiom adresine sahip olduğunu ispatlamak için bir mesaj imzala</translation>
+        <source>Sign a message to prove you own a Axon address</source>
+        <translation>Bir Axon adresine sahip olduğunu ispatlamak için bir mesaj imzala</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -95,8 +95,8 @@ Bu ürün, OpenSSL projesi tarafından OpenSSL araç takımıThis product includ
     </message>
     <message>
         <location line="-10"/>
-        <source>Verify a message to ensure it was signed with a specified Axiom address</source>
-        <translation>Mesajın, belirli bir Axiom adresiyle imzalandığından emin olmak için onu doğrula</translation>
+        <source>Verify a message to ensure it was signed with a specified Axon address</source>
+        <translation>Mesajın, belirli bir Axon adresiyle imzalandığından emin olmak için onu doğrula</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -263,8 +263,8 @@ Bu ürün, OpenSSL projesi tarafından OpenSSL araç takımıThis product includ
     </message>
     <message>
         <location line="+82"/>
-        <source>Axiom will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>Axiom, şifreleme işlemini tamamlamak için şimdi kapatılacak. Cüzdanınızı şifrelemenin; coinlerinizin, bilgisayarınızı etkileyen zararlı yazılımlar tarafından çalınmasını bütünüyle engelleyemeyebileceğini unutmayınız.</translation>
+        <source>Axon will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>Axon, şifreleme işlemini tamamlamak için şimdi kapatılacak. Cüzdanınızı şifrelemenin; coinlerinizin, bilgisayarınızı etkileyen zararlı yazılımlar tarafından çalınmasını bütünüyle engelleyemeyebileceğini unutmayınız.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -357,8 +357,8 @@ Bu ürün, OpenSSL projesi tarafından OpenSSL araç takımıThis product includ
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about Axiom</source>
-        <translation>Axiom hakkındaki bilgiyi göster</translation>
+        <source>Show information about Axon</source>
+        <translation>Axon hakkındaki bilgiyi göster</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -397,13 +397,13 @@ Bu ürün, OpenSSL projesi tarafından OpenSSL araç takımıThis product includ
     </message>
     <message>
         <location line="-55"/>
-        <source>Send coins to a Axiom address</source>
-        <translation>Bir Axiom adresine coin gönder</translation>
+        <source>Send coins to a Axon address</source>
+        <translation>Bir Axon adresine coin gönder</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>Modify configuration options for Axiom</source>
-        <translation>Axiom yapılandırma seçeneklerini değiştir</translation>
+        <source>Modify configuration options for Axon</source>
+        <translation>Axon yapılandırma seçeneklerini değiştir</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -443,8 +443,8 @@ Bu ürün, OpenSSL projesi tarafından OpenSSL araç takımıThis product includ
     <message>
         <location line="-214"/>
         <location line="+555"/>
-        <source>Axiom</source>
-        <translation>Axiom</translation>
+        <source>Axon</source>
+        <translation>Axon</translation>
     </message>
     <message>
         <location line="-555"/>
@@ -453,8 +453,8 @@ Bu ürün, OpenSSL projesi tarafından OpenSSL araç takımıThis product includ
     </message>
     <message>
         <location line="+193"/>
-        <source>&amp;About Axiom</source>
-        <translation>Axiom &amp;Hakkında</translation>
+        <source>&amp;About Axon</source>
+        <translation>Axon &amp;Hakkında</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -505,13 +505,13 @@ Bu ürün, OpenSSL projesi tarafından OpenSSL araç takımıThis product includ
     <message>
         <location line="+0"/>
         <location line="+58"/>
-        <source>Axiom client</source>
-        <translation>Axiom istemcisi</translation>
+        <source>Axon client</source>
+        <translation>Axon istemcisi</translation>
     </message>
     <message numerus="yes">
         <location line="+70"/>
-        <source>%n active connection(s) to Axiom network</source>
-        <translation><numerusform>Axiom ağına %n etkin bağlantı</numerusform><numerusform>Axiom ağına %n etkin bağlantı</numerusform></translation>
+        <source>%n active connection(s) to Axon network</source>
+        <translation><numerusform>Axon ağına %n etkin bağlantı</numerusform><numerusform>Axon ağına %n etkin bağlantı</numerusform></translation>
     </message>
     <message>
         <location line="+488"/>
@@ -605,8 +605,8 @@ Adres: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid Axiom address or malformed URI parameters.</source>
-        <translation>URI ayrıştırılamadı! Bu, geçersiz bir Axiom adresi veya hatalı URI parametreleri nedeniyle olabilir.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid Axon address or malformed URI parameters.</source>
+        <translation>URI ayrıştırılamadı! Bu, geçersiz bir Axon adresi veya hatalı URI parametreleri nedeniyle olabilir.</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -728,8 +728,8 @@ Adres: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+104"/>
-        <source>A fatal error occurred. Axiom can no longer continue safely and will quit.</source>
-        <translation>Önemli bir hata oluştu. Axiom artık güvenli bir şekilde devam edemez ve şimdi kapatılacak.</translation>
+        <source>A fatal error occurred. Axon can no longer continue safely and will quit.</source>
+        <translation>Önemli bir hata oluştu. Axon artık güvenli bir şekilde devam edemez ve şimdi kapatılacak.</translation>
     </message>
 </context>
 <context>
@@ -1062,8 +1062,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid Axiom address.</source>
-        <translation>Girilen %1 adresi, geçerli bir Axiom adresi değildir.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid Axon address.</source>
+        <translation>Girilen %1 adresi, geçerli bir Axon adresi değildir.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1081,8 +1081,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../guiutil.cpp" line="+426"/>
         <location line="+12"/>
-        <source>Axiom-Qt</source>
-        <translation>Axiom-Qt</translation>
+        <source>Axon-Qt</source>
+        <translation>Axon-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1154,13 +1154,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start Axiom after logging in to the system.</source>
-        <translation>Sisteme giriş yaptıktan sonra Axiom&apos;i otomatik olarak başlat</translation>
+        <source>Automatically start Axon after logging in to the system.</source>
+        <translation>Sisteme giriş yaptıktan sonra Axon&apos;i otomatik olarak başlat</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start Axiom on system login</source>
-        <translation>Sisteme girişte Axiom&apos;i &amp;başlat</translation>
+        <source>&amp;Start Axon on system login</source>
+        <translation>Sisteme girişte Axon&apos;i &amp;başlat</translation>
     </message>
     <message>
         <location line="+21"/>
@@ -1169,8 +1169,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the Axiom client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Yönelticide Axiom istemci portunu otomatik olarak aç. Bu, sadece yönelticiniz UPnP&apos;i desteklediğinde ve etkin olduğunda çalışır.</translation>
+        <source>Automatically open the Axon client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Yönelticide Axon istemci portunu otomatik olarak aç. Bu, sadece yönelticiniz UPnP&apos;i desteklediğinde ve etkin olduğunda çalışır.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1199,7 +1199,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="-57"/>
-        <source>Connect to the Axiom network through a SOCKS5 proxy (e.g. when connecting through Tor).</source>
+        <source>Connect to the Axon network through a SOCKS5 proxy (e.g. when connecting through Tor).</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1244,8 +1244,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting Axiom.</source>
-        <translation>Kullanıcı arabirimi dili buradan ayarlanabilir. Ayar, Axiom yeniden başlatıldığında etkin olacaktır.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting Axon.</source>
+        <translation>Kullanıcı arabirimi dili buradan ayarlanabilir. Ayar, Axon yeniden başlatıldığında etkin olacaktır.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1311,8 +1311,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting Axiom.</source>
-        <translation>Bu ayar, Axiom&apos;i yeniden başlattıktan sonra etkin olacaktır.</translation>
+        <source>This setting will take effect after restarting Axon.</source>
+        <translation>Bu ayar, Axon&apos;i yeniden başlattıktan sonra etkin olacaktır.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1330,8 +1330,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+46"/>
         <location line="+247"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Axiom network after a connection is established, but this process has not completed yet.</source>
-        <translation>Görüntülenen bilginin tarihi geçmiş olabilir. Cüzdanınız, bağlantı kurulduktan sonra otomatik olarak Axiom ağı ile senkronize olur ancak bu süreç, henüz tamamlanmamıştır.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Axon network after a connection is established, but this process has not completed yet.</source>
+        <translation>Görüntülenen bilginin tarihi geçmiş olabilir. Cüzdanınız, bağlantı kurulduktan sonra otomatik olarak Axon ağı ile senkronize olur ancak bu süreç, henüz tamamlanmamıştır.</translation>
     </message>
     <message>
         <location line="-173"/>
@@ -1404,8 +1404,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <name>PaymentServer</name>
     <message>
         <location filename="../paymentserver.cpp" line="+107"/>
-        <source>Cannot start axiom: click-to-pay handler</source>
-        <translation>Axiom: tıkla-ve-öde işleyicisi başlatılamıyor</translation>
+        <source>Cannot start axon: click-to-pay handler</source>
+        <translation>Axon: tıkla-ve-öde işleyicisi başlatılamıyor</translation>
     </message>
 </context>
 <context>
@@ -1572,8 +1572,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the Axiom-Qt help message to get a list with possible Axiom command-line options.</source>
-        <translation>Muhtemel Axiom komut satırı seçeneklerinin bir listesini getirmek için Axiom-Qt yardım mesajını göster</translation>
+        <source>Show the Axon-Qt help message to get a list with possible Axon command-line options.</source>
+        <translation>Muhtemel Axon komut satırı seçeneklerinin bir listesini getirmek için Axon-Qt yardım mesajını göster</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1592,13 +1592,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="-104"/>
-        <source>Axiom - Debug window</source>
-        <translation>Axiom - Hata ayıklama penceresi</translation>
+        <source>Axon - Debug window</source>
+        <translation>Axon - Hata ayıklama penceresi</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>Axiom Core</source>
-        <translation>Axiom Core</translation>
+        <source>Axon Core</source>
+        <translation>Axon Core</translation>
     </message>
     <message>
         <location line="+256"/>
@@ -1607,8 +1607,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the Axiom debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Axiom hata ayıklama günlük kütüğü dosyasını, mevcut veri klasöründen aç. Bu işlem, büyük günlük kütüğü dosyaları için birkaç saniye sürebilir.</translation>
+        <source>Open the Axon debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Axon hata ayıklama günlük kütüğü dosyasını, mevcut veri klasöründen aç. Bu işlem, büyük günlük kütüğü dosyaları için birkaç saniye sürebilir.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1617,8 +1617,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="+325"/>
-        <source>Welcome to the Axiom RPC console.</source>
-        <translation>Axiom RPC konsoluna hoş geldiniz.</translation>
+        <source>Welcome to the Axon RPC console.</source>
+        <translation>Axon RPC konsoluna hoş geldiniz.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1798,8 +1798,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-174"/>
-        <source>Enter a Axiom address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Bir Axiom adresi gir (örn: B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a Axon address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Bir Axon adresi gir (örn: B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1898,8 +1898,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+247"/>
-        <source>WARNING: Invalid Axiom address</source>
-        <translation>UYARI: Geçersiz Axiom adresi</translation>
+        <source>WARNING: Invalid Axon address</source>
+        <translation>UYARI: Geçersiz Axon adresi</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1972,8 +1972,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a Axiom address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Bir Axiom adresi girin (örn: B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a Axon address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Bir Axon adresi girin (örn: B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
 </context>
 <context>
@@ -2033,8 +2033,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this Axiom address</source>
-        <translation>Bu Axiom adresine sahip olduğunuzu ispatlamak için mesajı imzala</translation>
+        <source>Sign the message to prove you own this Axon address</source>
+        <translation>Bu Axon adresine sahip olduğunuzu ispatlamak için mesajı imzala</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2065,8 +2065,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified Axiom address</source>
-        <translation>Mesajın, belirtilen Axiom adresiyle imzalandığından emin olmak için onu doğrula</translation>
+        <source>Verify the message to ensure it was signed with the specified Axon address</source>
+        <translation>Mesajın, belirtilen Axon adresiyle imzalandığından emin olmak için onu doğrula</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2076,8 +2076,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a Axiom address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Bir Axiom adresi girin (örn: B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a Axon address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Bir Axon adresi girin (örn: B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2086,8 +2086,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter Axiom signature</source>
-        <translation>Axiom imzası gir</translation>
+        <source>Enter Axon signature</source>
+        <translation>Axon imzası gir</translation>
     </message>
     <message>
         <location line="+85"/>
@@ -2665,8 +2665,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+173"/>
-        <source>Axiom version</source>
-        <translation>Axiom versiyonu</translation>
+        <source>Axon version</source>
+        <translation>Axon versiyonu</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2675,8 +2675,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or axiomd</source>
-        <translation>-sunucu veya axiomd&apos;ye komut gönder</translation>
+        <source>Send command to -server or axond</source>
+        <translation>-sunucu veya axond&apos;ye komut gönder</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2695,13 +2695,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: axiom.conf)</source>
-        <translation>Konfigürasyon dosyasını belirt (varsayılan: axiom.conf)</translation>
+        <source>Specify configuration file (default: axon.conf)</source>
+        <translation>Konfigürasyon dosyasını belirt (varsayılan: axon.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: axiomd.pid)</source>
-        <translation>pid dosyasını belirt (varsayılan: axiom.pid)</translation>
+        <source>Specify pid file (default: axond.pid)</source>
+        <translation>pid dosyasını belirt (varsayılan: axon.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2718,24 +2718,24 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <source>%s, you must set a rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=axiomrpc
+rpcuser=axonrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Axiom Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;Axon Alert&quot; admin@foo.com
 </source>
         <translation>%s, konfigürasyon dosyasında bir rpcpassword belirlemelisiniz: 
 %s
 Aşağıdaki rastgele şifreyi kullanmanız tavsiye edilir:
-rpcuser=axiomrpc
+rpcuser=axonrpc
 rpcpassword=%s
 (bu şifreyi hatırlamanız gerekmemektedir)
 Kullanıcı adı ve şifre aynı OLMAMALIDIR.
 Dosya mevcut değilse, sadece sahibi tarafından okunabilir yetkiyle yaratın.
 Ayrıca sorunlardan haberdar edilmek için alertnotify parametresini doldurmanız önerilir;
-örneğin: alertnotify=echo %%s | mail -s &quot;Axiom Alarmı&quot; admin@foo.com
+örneğin: alertnotify=echo %%s | mail -s &quot;Axon Alarmı&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -2840,8 +2840,8 @@ Ayrıca sorunlardan haberdar edilmek için alertnotify parametresini doldurmanı
     </message>
     <message>
         <location line="-104"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Axiom will not work properly.</source>
-        <translation>Uyarı: Lütfen bilgisayarınızın tarih ve saatinin doğru olduğunu kontrol ediniz! Saatiniz yanlış ise, Axiom düzgün çalışmayacaktır.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Axon will not work properly.</source>
+        <translation>Uyarı: Lütfen bilgisayarınızın tarih ve saatinin doğru olduğunu kontrol ediniz! Saatiniz yanlış ise, Axon düzgün çalışmayacaktır.</translation>
     </message>
     <message>
         <location line="+132"/>
@@ -3147,8 +3147,8 @@ Ayrıca sorunlardan haberdar edilmek için alertnotify parametresini doldurmanı
     </message>
     <message>
         <location line="+8"/>
-        <source>Initialization sanity check failed. Axiom is shutting down.</source>
-        <translation>Başlangıç uygunluk kontrolü başarısız oldu. Axiom kapatılıyor.</translation>
+        <source>Initialization sanity check failed. Axon is shutting down.</source>
+        <translation>Başlangıç uygunluk kontrolü başarısız oldu. Axon kapatılıyor.</translation>
     </message>
     <message>
         <location line="+21"/>
@@ -3207,13 +3207,13 @@ Ayrıca sorunlardan haberdar edilmek için alertnotify parametresini doldurmanı
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Axiom</source>
-        <translation>wallet.dat yüklenirken hata: Cüzdan, daha yeni bir Axiom versiyonuna ihtiyaç duyuyor.</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Axon</source>
+        <translation>wallet.dat yüklenirken hata: Cüzdan, daha yeni bir Axon versiyonuna ihtiyaç duyuyor.</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart Axiom to complete</source>
-        <translation>Cüzdanın yeniden yazılması gerekmektedir: Tamamlamak için Axiom&apos;i yeniden başlatın</translation>
+        <source>Wallet needed to be rewritten: restart Axon to complete</source>
+        <translation>Cüzdanın yeniden yazılması gerekmektedir: Tamamlamak için Axon&apos;i yeniden başlatın</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3272,8 +3272,8 @@ Ayrıca sorunlardan haberdar edilmek için alertnotify parametresini doldurmanı
     </message>
     <message>
         <location line="+126"/>
-        <source>Unable to bind to %s on this computer. Axiom is probably already running.</source>
-        <translation>Bu bilgisayarda %s bağlanamadı. Axiom muhtemelen halen çalışmaktadır.</translation>
+        <source>Unable to bind to %s on this computer. Axon is probably already running.</source>
+        <translation>Bu bilgisayarda %s bağlanamadı. Axon muhtemelen halen çalışmaktadır.</translation>
     </message>
     <message>
         <location line="-102"/>
@@ -3312,8 +3312,8 @@ Ayrıca sorunlardan haberdar edilmek için alertnotify parametresini doldurmanı
     </message>
     <message>
         <location line="+3"/>
-        <source>Cannot obtain a lock on data directory %s. Axiom is probably already running.</source>
-        <translation>Veri klasörü %s üzerinde kilit elde edilemedi. Axiom muhtemelen halen çalışmaktadır.</translation>
+        <source>Cannot obtain a lock on data directory %s. Axon is probably already running.</source>
+        <translation>Veri klasörü %s üzerinde kilit elde edilemedi. Axon muhtemelen halen çalışmaktadır.</translation>
     </message>
     <message>
         <location line="+4"/>

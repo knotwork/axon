@@ -45,9 +45,9 @@ QString BitcoinUnits::description(int unit)
 {
     switch(unit)
     {
-    case BTC: return QString("Axioms");
-    case mBTC: return QString("Milli-Axioms (1 / 1,000)");
-    case uBTC: return QString("Micro-Axioms (1 / 1,000,000)");
+    case BTC: return QString("Axons");
+    case mBTC: return QString("Milli-Axons (1 / 1,000)");
+    case uBTC: return QString("Micro-Axons (1 / 1,000,000)");
     default: return QString("???");
     }
 }

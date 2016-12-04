@@ -30,9 +30,9 @@ sph_shabal256_init(&z_shabal); \
 #define ZSHABAL (memcpy(&ctx_shabal, &z_shabal, sizeof(z_shabal)))
 
 template<typename T1>
-inline uint256 AxiomHash(const T1 pbegin, const T1 pend)
+inline uint256 AxonHash(const T1 pbegin, const T1 pend)
 {
-    // Axiom Proof of Work Hash
+    // Axon Proof of Work Hash
     // based on RandMemoHash https://bitslog.files.wordpress.com/2013/12/memohash-v0-3.pdf
    /* RandMemoHash(s, R, N)
 	(1) Set M[0] := s

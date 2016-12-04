@@ -30,7 +30,13 @@ namespace Checkpoints
             ( 0,   uint256("0x00008e7c588d3c5f3e4b8a8d51e3192d78f4d50bed895b0ee9f91ad35ed5e80b") ) // Genesis Block
             ( 1075,   uint256("0x35878b89e7ffa26e24fb77023c3e3d30c3b6b262f61c9ffef73146afb9e7f64a") )
             ( 2163,   uint256("0x9f546fb1b45371b385fc0d7984da33615fd287366184fc2c564df5ef2d68a94b") )
-            ( 3303,   uint256("0x044f8cc55ffa80db4990fa318a2cd3429ad19d52db9cf2103b4b8cb0f753867f") )                        
+            ( 3303,   uint256("0x044f8cc55ffa80db4990fa318a2cd3429ad19d52db9cf2103b4b8cb0f753867f") )
+            ( 100000,   uint256("0xd117a926f20281e37136e19541751b123c332fa832e4d34741754dc09d075f18") )
+            ( 200000,   uint256("0xb618d4adbec45512233edc5679592f4e0aa1f3e32fbd605db391263aff81452d") )
+            ( 500000,   uint256("0x8a4cc00861879c258e9be282368ebbd635a0c749c50e6350d1a3575e1cf5f290") )
+            ( 750000,   uint256("0x26f85e249bc0bc02c923e6dafb5f6ba60b478731df437de75e251d3a64f30223") )
+            (1000000,   uint256("0xe1c09308dbb4ef543a7d869f0ed2c3cd810fe9f685bebc849eb160f855b95779") )
+            (1100000,   uint256("0x4d4695acb86f5c8ec0d4e83ee5f1f5c6138261eb94727ab4a8b3f79e7f78146f") )
         ;
 
     // TestNet has no checkpoints

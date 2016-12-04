@@ -3,22 +3,22 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About Axiom</source>
-        <translation>Au sujet de Axiom</translation>
+        <source>About Axon</source>
+        <translation>Au sujet de Axon</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;Axiom&lt;/b&gt; version</source>
-        <translation>Version de &lt;b&gt;Axiom&lt;/b&gt;</translation>
+        <source>&lt;b&gt;Axon&lt;/b&gt; version</source>
+        <translation>Version de &lt;b&gt;Axon&lt;/b&gt;</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The Axiom developers</source>
+Copyright © 2014 The Axon developers</source>
         <translation>Copyright © 2009-2014 Les développeurs Bitcoin
 Copyright © 2012-2014 Les développeurs NovaCoin
-Copyright © 2014 Les développeurs Axiom</translation>
+Copyright © 2014 Les développeurs Axon</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -60,7 +60,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-43"/>
-        <source>These are your Axiom addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <source>These are your Axon addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
         <translation>Ce sont vos adresses pour recevoir vos paiements. Vous pouvez utiliser une adresse différente pour chaque réception afin d&apos;identifier facilement le payeur.</translation>
     </message>
     <message>
@@ -75,8 +75,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+7"/>
-        <source>Sign a message to prove you own a Axiom address</source>
-        <translation>Signer un message afin de valider l&apos;identité de votre adresse Axiom</translation>
+        <source>Sign a message to prove you own a Axon address</source>
+        <translation>Signer un message afin de valider l&apos;identité de votre adresse Axon</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -90,8 +90,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-10"/>
-        <source>Verify a message to ensure it was signed with a specified Axiom address</source>
-        <translation>Vérifier un message pour s&apos;assurer qu&apos;il vient d&apos;un adresse Axiom spécifique.</translation>
+        <source>Verify a message to ensure it was signed with a specified Axon address</source>
+        <translation>Vérifier un message pour s&apos;assurer qu&apos;il vient d&apos;un adresse Axon spécifique.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -227,7 +227,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+1"/>
         <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR COINS&lt;/b&gt;!</source>
-        <translation>Avertissement : Si vous chiffrez votre portefeuille et perdez votre passphrase, vous ne pourrez &lt;b&gt;plus accéder à vos Axioms&lt;/b&gt;!</translation>
+        <translation>Avertissement : Si vous chiffrez votre portefeuille et perdez votre passphrase, vous ne pourrez &lt;b&gt;plus accéder à vos Axons&lt;/b&gt;!</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -258,8 +258,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+82"/>
-        <source>Axiom will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>L&apos;application Axiom va désormais se terminer afin de finaliser le processus de chiffrage. Merci de noter que le chiffrage du portefeuille ne garantit pas de se prémunir du vol via utilisation de malware, qui auraient pu infecter votre ordinateur. </translation>
+        <source>Axon will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>L&apos;application Axon va désormais se terminer afin de finaliser le processus de chiffrage. Merci de noter que le chiffrage du portefeuille ne garantit pas de se prémunir du vol via utilisation de malware, qui auraient pu infecter votre ordinateur. </translation>
     </message>
     <message>
         <location line="+13"/>
@@ -352,8 +352,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about Axiom</source>
-        <translation>Afficher des informations au sujet de Axiom</translation>
+        <source>Show information about Axon</source>
+        <translation>Afficher des informations au sujet de Axon</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -392,13 +392,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-55"/>
-        <source>Send coins to a Axiom address</source>
-        <translation>Envoyer des monnaies vers une adresse Axiom</translation>
+        <source>Send coins to a Axon address</source>
+        <translation>Envoyer des monnaies vers une adresse Axon</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>Modify configuration options for Axiom</source>
-        <translation>Modification des options de configuration de Axiom</translation>
+        <source>Modify configuration options for Axon</source>
+        <translation>Modification des options de configuration de Axon</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -438,8 +438,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="-214"/>
         <location line="+555"/>
-        <source>Axiom</source>
-        <translation>Axiom</translation>
+        <source>Axon</source>
+        <translation>Axon</translation>
     </message>
     <message>
         <location line="-555"/>
@@ -448,8 +448,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+193"/>
-        <source>&amp;About Axiom</source>
-        <translation>&amp;Au sujet de Axiom</translation>
+        <source>&amp;About Axon</source>
+        <translation>&amp;Au sujet de Axon</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -500,13 +500,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+0"/>
         <location line="+58"/>
-        <source>Axiom client</source>
-        <translation>Client Axiom</translation>
+        <source>Axon client</source>
+        <translation>Client Axon</translation>
     </message>
     <message numerus="yes">
         <location line="+70"/>
-        <source>%n active connection(s) to Axiom network</source>
-        <translation><numerusform>%n connexion active au réseau Axiom</numerusform><numerusform>%n connexions actives au réseau Axiom</numerusform></translation>
+        <source>%n active connection(s) to Axon network</source>
+        <translation><numerusform>%n connexion active au réseau Axon</numerusform><numerusform>%n connexions actives au réseau Axon</numerusform></translation>
     </message>
     <message>
         <location line="+488"/>
@@ -600,8 +600,8 @@ Adresse : %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid Axiom address or malformed URI parameters.</source>
-        <translation>L&apos;adresse du portefeuille Axiom n&apos;as pas pu être correctement identifiée, car invalide ou malformée.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid Axon address or malformed URI parameters.</source>
+        <translation>L&apos;adresse du portefeuille Axon n&apos;as pas pu être correctement identifiée, car invalide ou malformée.</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -723,8 +723,8 @@ Adresse : %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+104"/>
-        <source>A fatal error occurred. Axiom can no longer continue safely and will quit.</source>
-        <translation>Une erreur fatale a été rencontrée. L&apos;application Axiom ne peut plus être s&apos;exécuter de façon correcte et va se terminer.</translation>
+        <source>A fatal error occurred. Axon can no longer continue safely and will quit.</source>
+        <translation>Une erreur fatale a été rencontrée. L&apos;application Axon ne peut plus être s&apos;exécuter de façon correcte et va se terminer.</translation>
     </message>
 </context>
 <context>
@@ -1057,8 +1057,8 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid Axiom address.</source>
-        <translation>L&apos;adresse &quot;%1&quot; renseignée n&apos;est pas une adresse Axiom valide.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid Axon address.</source>
+        <translation>L&apos;adresse &quot;%1&quot; renseignée n&apos;est pas une adresse Axon valide.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1076,8 +1076,8 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     <message>
         <location filename="../guiutil.cpp" line="+426"/>
         <location line="+12"/>
-        <source>Axiom-Qt</source>
-        <translation>Axiom-Qt</translation>
+        <source>Axon-Qt</source>
+        <translation>Axon-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1149,13 +1149,13 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start Axiom after logging in to the system.</source>
-        <translation>Démarrage automatique du client Axiom lors de la connexion au système</translation>
+        <source>Automatically start Axon after logging in to the system.</source>
+        <translation>Démarrage automatique du client Axon lors de la connexion au système</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start Axiom on system login</source>
-        <translation>&amp;Démarrage du client Axiom à la connexion au système</translation>
+        <source>&amp;Start Axon on system login</source>
+        <translation>&amp;Démarrage du client Axon à la connexion au système</translation>
     </message>
     <message>
         <location line="+21"/>
@@ -1164,8 +1164,8 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the Axiom client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Ouvrir automatiquemwnr le port client de Axiom sur le routeur. Ceci ne fonctionne que dans le cas où le support UPnP sur votre routeur existe et est actif.</translation>
+        <source>Automatically open the Axon client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Ouvrir automatiquemwnr le port client de Axon sur le routeur. Ceci ne fonctionne que dans le cas où le support UPnP sur votre routeur existe et est actif.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1194,7 +1194,7 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     </message>
     <message>
         <location line="-57"/>
-        <source>Connect to the Axiom network through a SOCKS5 proxy (e.g. when connecting through Tor).</source>
+        <source>Connect to the Axon network through a SOCKS5 proxy (e.g. when connecting through Tor).</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1239,8 +1239,8 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting Axiom.</source>
-        <translation>La langue d&apos;interface de l&apos;utilisateur peut être définie ici. Les modification seront prises en compte après redémarrage de l&apos;application Axiom</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting Axon.</source>
+        <translation>La langue d&apos;interface de l&apos;utilisateur peut être définie ici. Les modification seront prises en compte après redémarrage de l&apos;application Axon</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1306,8 +1306,8 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting Axiom.</source>
-        <translation>Les paramètres prendront effet après redémarrage du client Axiom</translation>
+        <source>This setting will take effect after restarting Axon.</source>
+        <translation>Les paramètres prendront effet après redémarrage du client Axon</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1325,8 +1325,8 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     <message>
         <location line="+46"/>
         <location line="+247"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Axiom network after a connection is established, but this process has not completed yet.</source>
-        <translation>Les informations affichées peuvent être obsolètes. Votre portefeuille se synchronise automatiquement avec le réseau Axiom mais ce processus n&apos;est pas encore terminé.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Axon network after a connection is established, but this process has not completed yet.</source>
+        <translation>Les informations affichées peuvent être obsolètes. Votre portefeuille se synchronise automatiquement avec le réseau Axon mais ce processus n&apos;est pas encore terminé.</translation>
     </message>
     <message>
         <location line="-173"/>
@@ -1399,7 +1399,7 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     <name>PaymentServer</name>
     <message>
         <location filename="../paymentserver.cpp" line="+107"/>
-        <source>Cannot start axiom: click-to-pay handler</source>
+        <source>Cannot start axon: click-to-pay handler</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -1567,8 +1567,8 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the Axiom-Qt help message to get a list with possible Axiom command-line options.</source>
-        <translation>Afficher le message d&apos;aide Axiom-Qt afin d&apos;obtenir la liste des options de de L&apos;outil en ligne de commande Axiom</translation>
+        <source>Show the Axon-Qt help message to get a list with possible Axon command-line options.</source>
+        <translation>Afficher le message d&apos;aide Axon-Qt afin d&apos;obtenir la liste des options de de L&apos;outil en ligne de commande Axon</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1587,13 +1587,13 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     </message>
     <message>
         <location line="-104"/>
-        <source>Axiom - Debug window</source>
-        <translation>Axiom - Fenêtre de déboggage</translation>
+        <source>Axon - Debug window</source>
+        <translation>Axon - Fenêtre de déboggage</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>Axiom Core</source>
-        <translation>Axiom Core</translation>
+        <source>Axon Core</source>
+        <translation>Axon Core</translation>
     </message>
     <message>
         <location line="+256"/>
@@ -1602,8 +1602,8 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the Axiom debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Ouvrir le fichier journal de debug Axiom au sein du répertoire courant. Cette opération peut prendre quelques secondes dans le cas de fichiers journaux volumineux.</translation>
+        <source>Open the Axon debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Ouvrir le fichier journal de debug Axon au sein du répertoire courant. Cette opération peut prendre quelques secondes dans le cas de fichiers journaux volumineux.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1612,8 +1612,8 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="+325"/>
-        <source>Welcome to the Axiom RPC console.</source>
-        <translation>Bienvenue sur la console RPC de Axiom.</translation>
+        <source>Welcome to the Axon RPC console.</source>
+        <translation>Bienvenue sur la console RPC de Axon.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1793,8 +1793,8 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-174"/>
-        <source>Enter a Axiom address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Entrer une adresse Axiom (par ex: B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a Axon address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Entrer une adresse Axon (par ex: B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1893,8 +1893,8 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     </message>
     <message>
         <location line="+247"/>
-        <source>WARNING: Invalid Axiom address</source>
-        <translation>AVERTISSEMENT: Adresse Axiom Invalide</translation>
+        <source>WARNING: Invalid Axon address</source>
+        <translation>AVERTISSEMENT: Adresse Axon Invalide</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1904,7 +1904,7 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     <message>
         <location line="+4"/>
         <source>WARNING: unknown change address</source>
-        <translation>AVERTISSEMENT: Adresse Axiom Invalide</translation>
+        <translation>AVERTISSEMENT: Adresse Axon Invalide</translation>
     </message>
 </context>
 <context>
@@ -1967,8 +1967,8 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a Axiom address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Entrer une adresse Axiom (par ex: B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a Axon address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Entrer une adresse Axon (par ex: B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
 </context>
 <context>
@@ -1992,7 +1992,7 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     <message>
         <location line="+18"/>
         <source>The address to sign the message with (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Entrer une adresse Axiom (par ex: B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <translation>Entrer une adresse Axon (par ex: B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -2028,8 +2028,8 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this Axiom address</source>
-        <translation>Signer le message afin de prouver l&apos;identité de votre adresse Axiom</translation>
+        <source>Sign the message to prove you own this Axon address</source>
+        <translation>Signer le message afin de prouver l&apos;identité de votre adresse Axon</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2060,8 +2060,8 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified Axiom address</source>
-        <translation>Vérifiez le message afin de vous assurer qu&apos;il provient de l&apos;adresse Axiom spécifiée.</translation>
+        <source>Verify the message to ensure it was signed with the specified Axon address</source>
+        <translation>Vérifiez le message afin de vous assurer qu&apos;il provient de l&apos;adresse Axon spécifiée.</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2071,8 +2071,8 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a Axiom address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Entrer une adresse Axiom (par ex: B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a Axon address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Entrer une adresse Axon (par ex: B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2081,8 +2081,8 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter Axiom signature</source>
-        <translation>Entrer une signature Axiom</translation>
+        <source>Enter Axon signature</source>
+        <translation>Entrer une signature Axon</translation>
     </message>
     <message>
         <location line="+85"/>
@@ -2660,8 +2660,8 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+173"/>
-        <source>Axiom version</source>
-        <translation>Version Axiom</translation>
+        <source>Axon version</source>
+        <translation>Version Axon</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2670,8 +2670,8 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or axiomd</source>
-        <translation>Envoyer commande à -server ou axiomd</translation>
+        <source>Send command to -server or axond</source>
+        <translation>Envoyer commande à -server ou axond</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2690,13 +2690,13 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: axiom.conf)</source>
-        <translation>Spécifier le fichier de configuration (par défaut: axiom.conf)</translation>
+        <source>Specify configuration file (default: axon.conf)</source>
+        <translation>Spécifier le fichier de configuration (par défaut: axon.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: axiomd.pid)</source>
-        <translation>Spécifier le fichier pid (par défaut: axiomd.pid)</translation>
+        <source>Specify pid file (default: axond.pid)</source>
+        <translation>Spécifier le fichier pid (par défaut: axond.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2713,13 +2713,13 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
         <source>%s, you must set a rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=axiomrpc
+rpcuser=axonrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Axiom Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;Axon Alert&quot; admin@foo.com
 </source>
         <translation type="unfinished"/>
     </message>
@@ -2825,8 +2825,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Axiom Alert&quot; admin@foo.co
     </message>
     <message>
         <location line="-104"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Axiom will not work properly.</source>
-        <translation>Avertissement: Veuillez vérifier la date et l&apos;heure de votre ordinateur. Axiom ne pourra pas fonctionner correctement si l&apos;horloge est réglée de façon incorrecte</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Axon will not work properly.</source>
+        <translation>Avertissement: Veuillez vérifier la date et l&apos;heure de votre ordinateur. Axon ne pourra pas fonctionner correctement si l&apos;horloge est réglée de façon incorrecte</translation>
     </message>
     <message>
         <location line="+132"/>
@@ -3132,7 +3132,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Axiom Alert&quot; admin@foo.co
     </message>
     <message>
         <location line="+8"/>
-        <source>Initialization sanity check failed. Axiom is shutting down.</source>
+        <source>Initialization sanity check failed. Axon is shutting down.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3192,13 +3192,13 @@ for example: alertnotify=echo %%s | mail -s &quot;Axiom Alert&quot; admin@foo.co
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Axiom</source>
-        <translation>Erreur de chargement du fichier wallet.dat: le portefeuille nécessite une version plus récente de l&apos;application Axiom</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Axon</source>
+        <translation>Erreur de chargement du fichier wallet.dat: le portefeuille nécessite une version plus récente de l&apos;application Axon</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart Axiom to complete</source>
-        <translation>Le portefeuille nécessite d&apos;être réédité : Merci de relancer l&apos;application Axiom</translation>
+        <source>Wallet needed to be rewritten: restart Axon to complete</source>
+        <translation>Le portefeuille nécessite d&apos;être réédité : Merci de relancer l&apos;application Axon</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3257,8 +3257,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Axiom Alert&quot; admin@foo.co
     </message>
     <message>
         <location line="+126"/>
-        <source>Unable to bind to %s on this computer. Axiom is probably already running.</source>
-        <translation>Connexion au port %s impossible. L&apos;application Axiom est probablement déjà en cours d&apos;exécution</translation>
+        <source>Unable to bind to %s on this computer. Axon is probably already running.</source>
+        <translation>Connexion au port %s impossible. L&apos;application Axon est probablement déjà en cours d&apos;exécution</translation>
     </message>
     <message>
         <location line="-102"/>
@@ -3297,7 +3297,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Axiom Alert&quot; admin@foo.co
     </message>
     <message>
         <location line="+3"/>
-        <source>Cannot obtain a lock on data directory %s. Axiom is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s. Axon is probably already running.</source>
         <translation type="unfinished"/>
     </message>
     <message>

@@ -49,12 +49,12 @@ public:
         // The characters are rarely used upper ASCII, not valid as UTF-8, and produce
         // a large 4-byte int at any alignment.
         pchMessageStart[0] = 0x03;
-        pchMessageStart[1] = 0x3f;
+        pchMessageStart[1] = 0x3e;
         pchMessageStart[2] = 0x1a;
         pchMessageStart[3] = 0x0c;
         vAlertPubKey = ParseHex("04f828a532f5df028c41cc1e04eab69c8a34371d39ef8440679857ed7707ed8bf8a9acaaf12fcf3721b1e4cf409614e6ced7da9a5ed8788886671dc0a90860c67a");
-        nDefaultPort = 15760;
-        nRPCPort = 15770;
+        nDefaultPort = 15761;
+        nRPCPort = 15771;
         bnProofOfWorkLimit = CBigNum(~uint256(0) >> 1);
 
         // Build the genesis block. Note that the output of the genesis coinbase cannot
@@ -106,7 +106,7 @@ if (true && (genesis.GetHash() != hashGenesisBlock)) {
         assert(hashGenesisBlock == uint256("0x75687e926dd7611f320a99144869f1e281e275b306c634e285e780f1440a0064"));
         assert(genesis.hashMerkleRoot == uint256("0x9d35af1a8dadf0ebe7369bd5f472ed899b1b84222259ea0a1a1853b093148135"));
 
-        vSeeds.push_back(CDNSSeedData("seed.axiomcoin.xyz", "seed.axiomcoin.xyz"));
+        vSeeds.push_back(CDNSSeedData("seed.axoncoin.xyz", "seed.axoncoin.xyz"));
         
         base58Prefixes[PUBKEY_ADDRESS] = list_of(23); // A
         base58Prefixes[SCRIPT_ADDRESS] = list_of(85);
